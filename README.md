@@ -45,7 +45,7 @@ cd ToDoList-JS
    Du kannst die App auch lokal auf einem Live-Server starten (z. B. mit VS Code Erweiterung „Live Server“).
 
 3. Oder öffne die Online-Version:  
-👉 https://payamabdolmohammdi.github.io/ToDoList-JS/
+👉https://payamabdolmohammadi.github.io/ToDoList-JS/
 
 ---
 
