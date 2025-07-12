@@ -28,9 +28,13 @@ Ziel dieses Projekts ist es, die grundlegenden Frontend-Konzepte wie DOM-Manipul
 
 ## 📂 Projektstruktur
 todo-app/
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── README.md
 
 ---
@@ -57,12 +61,6 @@ cd ToDoList-JS
 - Die App überprüft, ob eine Aufgabe leer oder bereits vorhanden ist.  
 - Aufgaben können live gefiltert werden, während du tippst.  
 - Alle Daten werden in localStorage gespeichert und bleiben auch nach einem Neuladen der Seite erhalten.  
-
----
-
-## 📸 Vorschau
-
-(Hier kannst du Screenshots hinzufügen, falls vorhanden)
 
 ---
 
