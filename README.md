@@ -38,8 +38,9 @@ todo-app/
 ## ▶️ Nutzung / Ausführen
 
 1. Repository klonen oder herunterladen:
-git clone https://github.com/payamabdolmohammdi/ToDoList-JS.git
+git clone https://github.com/PayamAbdolmohammadi/ToDoList-JS.git
 cd ToDoList-JS
+
 
 2. Öffne die Datei index.html direkt im Browser.  
    Du kannst die App auch lokal auf einem Live-Server starten (z. B. mit VS Code Erweiterung „Live Server“).
